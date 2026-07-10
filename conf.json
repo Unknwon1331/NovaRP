@@ -1,0 +1,13 @@
+{
+  "announce": false,
+  "api-threading-debugging": false,
+  "csharp": "true",
+  "gamemode": "K-Crimelife",
+  "language": "de",
+  "maxplayers": 500,
+  "name": "K-Crimelife V2 [DE] [Crimelife] ",
+  "port": 22005,
+  "stream-distance": 500.0,
+  "sync-rate": 40,
+  "voice-chat": false
+}
